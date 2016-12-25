@@ -7,3 +7,5 @@ map <tab> :NERDTreeToggle<CR>
 
 execute pathogen#infect()
 call pathogen#helptags()
+
+syntax on
